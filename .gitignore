@@ -1,0 +1,22 @@
+tt.*
+.tests
+doc/tags
+debug
+.repro
+foo.*
+*.log
+data
+
+# Neovim runtime
+state/
+shada/
+swap/
+undo/
+backup/
+cache/
+
+# Lazy.nvim plugins
+lazy/
+
+# OS / editor junk
+.DS_Store
