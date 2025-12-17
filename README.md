@@ -1,4 +1,16 @@
-# 💤 LazyVim
+# Neovim Config
 
-A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
-Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
+Personal Neovim configuration based on LazyVim
+
+## Requirements
+- Neovim >= 0.9
+- Nerd font
+- git, ripgrep, fd
+
+## Install
+```bash
+mv ~/.config/nvim{,.bak}
+
+git clone git@github.com:OneLastStop529/my-nvim-config.git ~/.config/nvim
+
+nvim
