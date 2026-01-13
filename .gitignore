@@ -22,5 +22,5 @@ lazy/
 .DS_Store
 
 
-# Lacy Lockfile
-lacy-lock.json
+# Lazy Lockfile
+lazy-lock.json
