@@ -20,3 +20,7 @@ lazy/
 
 # OS / editor junk
 .DS_Store
+
+
+# Lacy Lockfile
+lacy-lock.json
